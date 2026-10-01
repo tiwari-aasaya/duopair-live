@@ -1,0 +1,6 @@
+{
+  "name": "DuoPair Live - Instant Accountability Matchmaker",
+  "description": "DuoPair Live connects strangers instantly based on shared time commitments and focus fields to crush their goals together with real-time countdown, live chat, and high-energy neo-brutalist accountability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
